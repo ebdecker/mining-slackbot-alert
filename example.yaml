@@ -1,0 +1,7 @@
+slack_bot_token: YOURTOKENHERE
+slack_username: SLACK USERNAME WITHOUT @
+miner:
+  - host_ip: 111.111.11.111
+    port: 3333
+    name: MiningRig
+gpu_alert_temp: 80
